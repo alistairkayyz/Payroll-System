@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1615837899 source:c:\users\alist\documents\code blocks\payroll system\main.cpp
+	<iostream>
+	"Emp.h"
+	"Salary.h"
+
+1615837899 c:\users\alist\documents\code blocks\payroll system\include\emp.h
+
+1615837899 c:\users\alist\documents\code blocks\payroll system\include\salary.h
+
+1615837899 source:c:\users\alist\documents\code blocks\payroll system\src\emp.cpp
+	<iostream>
+	"Emp.h"
+	"Salary.h"
+
